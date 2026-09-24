@@ -26,7 +26,8 @@ proyecto.
    hash guardado en la base de datos (linea "[Demostracion de hashing]").
    Tambien puedes abrir `usuarios.db` con una herramienta como
    "DB Browser for SQLite" y ver que la columna `password_hash` no
-   contiene la contrasena en texto plano.
+   contiene la contrasena en texto plano.<img width="1162" height="365" alt="image" src="https://github.com/user-attachments/assets/8e4e325d-d4ae-4cd6-b71b-9e97d108f720" />
+
 
 6. **Cifrado**
    Al llegar al ultimo paso (acceso a camara), el programa imprime la IP
